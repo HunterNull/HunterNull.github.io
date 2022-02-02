@@ -15,14 +15,14 @@ null,
 {"id":13,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":52,"dataId":4,"value":1},{"code":41,"dataId":2,"value":1}],"iconIndex":129,"name":"small round shield","note":"","params":[20,0,0,25,0,0,0,0],"price":25},
 {"id":14,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":52,"dataId":1,"value":1}],"iconIndex":137,"name":"blacksmith armor","note":"","params":[50,0,0,55,0,0,23,0],"price":0},
 {"id":15,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":52,"dataId":1,"value":1}],"iconIndex":141,"name":"steel boots","note":"","params":[10,0,15,50,0,0,30,0],"price":0},
-{"id":16,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":17,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":18,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":16,"atypeId":3,"description":"a suit of light combat armor underneath a balistic fiber\nduster","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":52,"dataId":3,"value":1},{"code":52,"dataId":1,"value":1}],"iconIndex":139,"name":"desert armor duster","note":"","params":[65,0,40,60,0,0,30,20],"price":1000},
+{"id":17,"atypeId":3,"description":"a light helmet that provides protection against heat,\nbullets, and making freinds, [GAMER]","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":52,"dataId":1,"value":1},{"code":52,"dataId":3,"value":1}],"iconIndex":132,"name":"desert combat helmet","note":"","params":[40,0,30,55,0,0,5,10],"price":175},
+{"id":18,"atypeId":4,"description":"a set of iron armor","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":52,"dataId":4,"value":1},{"code":52,"dataId":1,"value":1}],"iconIndex":137,"name":"iron armor","note":"","params":[15,0,5,25,0,0,0,0],"price":75},
 {"id":19,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":20,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":21,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":22,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":23,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":24,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":25,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+{"id":25,"atypeId":0,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":999999}
 ]
