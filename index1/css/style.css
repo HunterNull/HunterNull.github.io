@@ -1,0 +1,38 @@
+body {
+  font-family: DangerMode, Calibri, Arial;
+
+}
+h1 {
+  font-family: Candara, Calibri, Arial;
+  text-align: center;
+}
+#content {
+  margin: auto;
+  width: 500px;
+  text-align: justify;
+}
+.segment{
+  border-width: 5px;
+  border-color #000000;
+  border-style: ridge;
+  padding: 10px;
+}
+/* the following sellector only does the thing in the segment */
+.segment img {
+  max-width: 480px;
+  float: left;
+  margin: 0px 10px 10px 0px;
+}
+.segment .centerimg {
+  float:none;
+}
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#quoteBox{
+  border-width: 2px;
+  border-color: #000000;
+  border-style: double;
+
+}

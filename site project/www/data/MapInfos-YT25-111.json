@@ -1,0 +1,22 @@
+[
+null,
+{"id":1,"expanded":true,"name":"outside house","order":17,"parentId":3,"scrollX":1084,"scrollY":610},
+{"id":2,"expanded":false,"name":"inside house","order":18,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"MAP","order":1,"parentId":0,"scrollX":1084,"scrollY":610},
+{"id":4,"expanded":false,"name":"tent","order":2,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"cave area","order":3,"parentId":3,"scrollX":820.8,"scrollY":482.4},
+{"id":6,"expanded":false,"name":"town","order":4,"parentId":3,"scrollX":1796,"scrollY":594},
+{"id":7,"expanded":true,"name":"home1","order":5,"parentId":6,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
+{"id":8,"expanded":false,"name":"woodshed","order":6,"parentId":7,"scrollX":433.6,"scrollY":244},
+{"id":9,"expanded":false,"name":"tent2","order":7,"parentId":6,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":true,"name":"abandoned house","order":10,"parentId":3,"scrollX":772.8,"scrollY":640},
+{"id":11,"expanded":true,"name":"abandoned house inside","order":11,"parentId":10,"scrollX":1084,"scrollY":610},
+{"id":12,"expanded":true,"name":"???","order":12,"parentId":11,"scrollX":832,"scrollY":640},
+{"id":13,"expanded":false,"name":"town hall","order":8,"parentId":6,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
+{"id":14,"expanded":false,"name":"blacksmihte","order":9,"parentId":6,"scrollX":832,"scrollY":640},
+{"id":15,"expanded":true,"name":"big town","order":13,"parentId":3,"scrollX":1068,"scrollY":1048},
+{"id":16,"expanded":true,"name":"mine","order":15,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":17,"expanded":false,"name":"home2","order":16,"parentId":16,"scrollX":832,"scrollY":640},
+{"id":18,"expanded":false,"name":"big town hall","order":14,"parentId":15,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":19,"expanded":false,"name":"map2","order":19,"parentId":0,"scrollX":904,"scrollY":398.6666666666667}
+]
